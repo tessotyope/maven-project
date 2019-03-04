@@ -1,2 +1,2 @@
 # simple maven-project
-wai to be polled
+wait to be polled
